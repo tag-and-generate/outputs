@@ -1,7 +1,9 @@
 #  
 Outputs from our submission for all the datasets used in: https://arxiv.org/pdf/2004.14257.pdf
 
+- The outputs are located in the respective folders.
 
+```
 ├── amazon
 │   ├── neg2pos
 │   │   ├── input.txt
@@ -15,7 +17,7 @@ Outputs from our submission for all the datasets used in: https://arxiv.org/pdf/
 │   │   └── to_hum.output.txt
 │   └── to_rom
 │       └── to_rom.output.txt
-├── enron
+├── politeness
 │   ├── input.txt
 │   └── output.txt
 ├── gender
@@ -39,3 +41,4 @@ Outputs from our submission for all the datasets used in: https://arxiv.org/pdf/
     └── pos2neg
         ├── input.txt
         └── output.txt
+```
