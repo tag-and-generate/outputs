@@ -3,6 +3,8 @@ Outputs from our submission for all the datasets used in: https://arxiv.org/pdf/
 
 - The outputs are located in the respective folders.
 
+- We used [this repo](https://github.com/Maluuba/nlg-eval) for calculating all the metrics.
+
 ```
 ├── amazon
 │   ├── neg2pos
