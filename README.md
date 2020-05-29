@@ -1,7 +1,9 @@
 #  
-Outputs from our submission for all the datasets used in: https://arxiv.org/pdf/2004.14257.pdf
+Outputs from our submission for all the six datasets used in: https://arxiv.org/pdf/2004.14257.pdf
 
 - The outputs are located in the respective folders.
+
+- We used [this repo](https://github.com/Maluuba/nlg-eval) for calculating all the metrics.
 
 ```
 ├── amazon
